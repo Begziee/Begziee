@@ -5,7 +5,7 @@
 ---
 
 ### **📌 About Me**
-- 📊 I specialize in **SQL, dbt, BigQuery, Python, AWS, and data visualization tools**
+- 📊 I specialise in **SQL, dbt, BigQuery, Python, AWS, and data visualisation tools**
 - 🏗️ I love designing **scalable data pipelines and data models** that drive business insights
 - 🎯 Interested in **cloud-based analytics solutions and automation in data workflows**
 
